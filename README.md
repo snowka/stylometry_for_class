@@ -9,6 +9,4 @@ There is a good tutotorial on how to do this here: https://the-turing-way.netlif
 
 The Binder Jupyter notebook is up and running and can be viewed on other machines, like my phone.
 
-Remaning issues:
-1. NLTK does not seem to have loaded, given the errors I saw when attempting to run the stylometry.py script. Need to make sure that I have formatted the requirements.txt file properly. Perhaps a >= version number is necessary.
 
